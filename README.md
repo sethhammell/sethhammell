@@ -1,10 +1,14 @@
-<h1 align="center">Intro</h1>
+<h1 align="center">Contact</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/sethhammell/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="mailto:sethjhammell@gmail.com">
     <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
+<a href="tel:+12266064727">
+  <img src="https://img.shields.io/badge/📞Phone-4CD964?style=for-the-badge&logoColor=white" height=25>
+</a>
+
 </p>
 
 </br>
@@ -40,10 +44,6 @@
 </p>
 
 </br>
-<h1 align="center">GitHub Stats</h1>
-<p align="center">
-</br>
-</p>
 
 <p align="center">
   <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=sethhammell&layout=compact&langs_count=6,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d&hide=c%2B%2B"/>
