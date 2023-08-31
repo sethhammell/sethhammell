@@ -5,9 +5,6 @@
   <a href="mailto:sethjhammell@gmail.com">
     <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
-  <a href="tel:12266064727">
-    <img src="https://img.shields.io/badge/📞Phone-4CD964?style=for-the-badge&logoColor=white" height=25>
-  </a>
 </p>
 
 </br>
